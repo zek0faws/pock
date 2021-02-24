@@ -176,4 +176,4 @@ Vous pourrez bientôt le faire grâce au <b>PockKit</b>!
 
 ## Licence d'utilisation
 
-Sous licence MIT. Voir le fichier [LICENCE](LICENSE) pour plus d'informations.
+Sous licence MIT. Voir le fichier [LICENCE](/LICENSE) pour plus d'informations.
